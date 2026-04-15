@@ -69,6 +69,3 @@ A comparison table is generated at the end of the notebook, providing a side-by-
 
 *   `Predicting Breast Cancer.ipynb`: The main Jupyter Notebook containing all the executed code, visualizations, and modeling steps.
 *   `cancer.csv`: The dataset used for training and evaluating the models.
-*   `Predicting Breast Cancer in a patient.pdf`: The problem statement.
-*   `Explanation.docx`: Further details regarding theoretical concepts.
-*   `Breast Cancer SVM.txt`: Reference links for tutorials.
